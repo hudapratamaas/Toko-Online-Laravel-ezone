@@ -15,7 +15,7 @@ Masuk ke folder dengan perintah
   cd nama_projek
 ```
 
--   Copy .env.example menjadi .env kemudia edit database dan api key nya
+-   ubah file .env.example menjadi .env kemudian edit database dan api key nya
 
 ```bash
     composer install
@@ -31,6 +31,15 @@ Masuk ke folder dengan perintah
 
 ```bash
     php artisan storage:link
+```
+```bash
+    npm install
+```
+```bash
+    npm dev run
+```
+```bash
+    php artisan serve
 ```
 
 #### Login
