@@ -1,4 +1,6 @@
 # Laravel 10 - Toko Online
+# PHP my admin
+# Framework Frontend Bootstrap
 
 
 ## Donwload
