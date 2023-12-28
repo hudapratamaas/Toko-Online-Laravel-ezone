@@ -38,7 +38,7 @@ Masuk ke folder dengan perintah
     npm install
 ```
 ```bash
-    npm dev run
+    npm run dev
 ```
 ```bash
     php artisan serve
